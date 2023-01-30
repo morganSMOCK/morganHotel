@@ -1,0 +1,2 @@
+select salaire 
+from prestataire;
