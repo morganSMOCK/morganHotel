@@ -1,2 +1,0 @@
-select salaire 
-from prestataire;
